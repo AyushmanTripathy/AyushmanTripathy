@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushmanTripathy
 - 👀 I’m interested in Web development & machine learning
-- 💞️ I’m looking to collaborate on server side node.js application or front end ui design 
-- 📫 You can reach me by mail ayushmantripathy2004@gmail.com
+- 💞️ I’m looking to collaborate on server side applications or front end ui design 
+- 📫 Reach me by [Mail](ayushmantripathy2004@gmail.com)
 - Pay a visit to my [Portfolio website](https://ayushmantripathy.github.io/portfolio_website/)
 
 <!---
