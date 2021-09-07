@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushmanTripathy
-- 👀 I’m interested in Web development.
-- 💞️ I’m looking to collaborate on node.js applications or front end ui design 
+- 👀 I’m a Full-stack Web development.
+- 💞️ I’m looking to collaborate with Javascript 
 - 📫 Reach me by [Mail](ayushmantripathy2004@gmail.com)
 - Pay a visit to my [Portfolio website](https://ayushmantripathy.github.io/portfolio_website/)
 
