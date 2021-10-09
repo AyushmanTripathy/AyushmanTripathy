@@ -2,7 +2,7 @@
 - 👀 I’m a Full-stack Web development.
 - 💞️ I’m looking to collaborate with Javascript 
 - 📫 Reach me by [Mail](ayushmantripathy2004@gmail.com)
-- Pay a visit to my [Portfolio website](https://ayushmantripathy.github.io/portfolio_website/)
+- Pay a visit to my [Portfolio website](https://ayushmantripathy.netlify.app/)
 
 <!---
 AyushmanTripathy/AyushmanTripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
