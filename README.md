@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushmanTripathy
 - 👀 I’m a Full-stack Web development.
 - 💞️ I’m looking to collaborate with Javascript 
-- 📫 Reach me by [Mail](https://ayushmantripathy2004@gmail.com)
+- 📫 Reach me by [Mail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mail&to=ayushmantripathy2004@gmail.com)
 - Pay a visit to my [Portfolio website](https://ayushmantripathy.netlify.app/)
 
 <!---
