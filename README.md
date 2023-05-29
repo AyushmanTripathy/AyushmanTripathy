@@ -6,7 +6,7 @@
   - Visit my [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanTripathy&layout=compact&exclude_repo=.config,dots&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanTripathy&layout=compact&exclude_repo=.config,dots,dwm,dmenu,st,dwmblocks&langs_count=8&theme=dark)
 
 ## My Tech Stack
 <p align="left">
