@@ -1,8 +1,6 @@
-[![Github](https://github-readme-stats.vercel.app/api?username=AyushmanTripathy&theme=dark&show_icons=true)](https://github.com/AyushmanTripathy/) </br>
-
   - 👋 Hi, I’m @AyushmanTripathy
   - I like to learn stuff by just doing stuff.
-  - 👀 I’m a Javascript and Linux enthusiast.
+  - I’m a Javascript and Linux enthusiast.
   - Visit my [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
 
