@@ -4,8 +4,6 @@
   - Visit my [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanTripathy&layout=compact&exclude_repo=.config,dots,dwm,dmenu,st,dwmblocks&langs_count=8&theme=dark)
-
 ## My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
