@@ -1,10 +1,10 @@
-  - 👋 Hi, I’m @AyushmanTripathy
+### 👋 Hi, I’m @AyushmanTripathy
   - I like to learn stuff by just doing stuff.
-  - I’m a Javascript and Linux enthusiast.
+  - I’m a self taught programmer and Linux enthusiast.
   - Visit my [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
 
-## My Tech Stack
+### My Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
