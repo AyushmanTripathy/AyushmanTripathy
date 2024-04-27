@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m @AyushmanTripathy
   - Currently Freshman at GIETU, Gunupur
   - I like to learn stuff by just doing stuff.
+  - I also do Competative Programming.
   - I’m a self taught programmer and Linux enthusiast.
   - Visit my [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -25,4 +27,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-I use Arch btw!
+
+### Like CP?
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ayushmantripat)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ayushmantripathy)
+
+
+I use Arch btw! check out my [dots](https://github.com/ayushmantripathy/dots).
