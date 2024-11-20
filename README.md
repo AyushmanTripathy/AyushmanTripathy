@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @AyushmanTripathy
   - Currently a sophomore at GIETU, Gunupur
   - I like to learn stuff by just doing stuff.
-  - I am a noob at Competitive Programming.
+  - I am into Competitive Programming, 3⭐ at codechef.
   - I use Arch btw and love open-source
   - I’m a self-taught programmer and like creating stuff.
   - Visit my [website](https://ayushmantripathy.netlify.app).
