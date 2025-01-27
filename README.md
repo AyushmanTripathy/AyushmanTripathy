@@ -9,7 +9,7 @@
 ### Tech that I have used
 
 <!-- get badges from https://github.com/Ileriayo/markdown-badges -->
-non-exhaustive list of things I worked with,
+non-exhaustive list of things I have worked with,
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
