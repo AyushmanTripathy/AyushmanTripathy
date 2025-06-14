@@ -2,7 +2,7 @@
   - Self-taught programmer and computer & history  nerd.
   - I am into Competitive Programming, 3⭐ at codechef.
   - I use Arch btw and love open-source
-  - my [website](https://ayushmantripathy.netlify.app).
+  - My [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
 
 ### Tech that I have used
