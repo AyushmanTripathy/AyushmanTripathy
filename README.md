@@ -37,7 +37,8 @@ non-exhaustive list of things I have worked with,
 
 ### Like CP?
 
-Here is my CodeChef, hit me up if you are looking for a CP buddy.  
+Here is my CodeChef, hit me up if you are looking for a CP buddy.
+<br>
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ayushmantripat)
 
 ### I use Arch btw!
