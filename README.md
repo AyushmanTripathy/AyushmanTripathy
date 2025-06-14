@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m @AyushmanTripathy
   - self-taught programmer and computer & history  nerd.
-  - Currently a sophomore at GIETU, Gunupur
   - I am into Competitive Programming, 3⭐ at codechef.
   - I use Arch btw and love open-source
   - Visit my [website](https://ayushmantripathy.netlify.app).
