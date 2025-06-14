@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m @AyushmanTripathy
-  - self-taught programmer and computer & history  nerd.
+  - Self-taught programmer and computer & history  nerd.
   - I am into Competitive Programming, 3⭐ at codechef.
   - I use Arch btw and love open-source
-  - Visit my [website](https://ayushmantripathy.netlify.app).
+  - my [website](https://ayushmantripathy.netlify.app).
   - My [Gmail](https://ayushmantripathy2004@gmail.com).
 
 ### Tech that I have used
@@ -11,6 +11,7 @@
 non-exhaustive list of things I have worked with,
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -31,7 +32,6 @@ non-exhaustive list of things I have worked with,
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
 </p>
 
 
